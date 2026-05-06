@@ -1,4 +1,6 @@
 # E-OS — Elite AI Life Operating System
+e-os-8.vercel.app
+
 
 ## 🚀 Overview
 
